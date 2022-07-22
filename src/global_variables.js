@@ -1,0 +1,1 @@
+export const MOVIE_DB_API='9e1e207e3191bf1d86b140231de64e00'
