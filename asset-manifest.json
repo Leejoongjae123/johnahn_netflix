@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/johnahn_netflix/static/css/main.0b7ec798.css",
+    "main.js": "/github.io/johnahn_netflix/static/js/main.3848fd52.js",
+    "static/js/787.0904c1f0.chunk.js": "/github.io/johnahn_netflix/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/github.io/johnahn_netflix/index.html",
+    "main.0b7ec798.css.map": "/github.io/johnahn_netflix/static/css/main.0b7ec798.css.map",
+    "main.3848fd52.js.map": "/github.io/johnahn_netflix/static/js/main.3848fd52.js.map",
+    "787.0904c1f0.chunk.js.map": "/github.io/johnahn_netflix/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7ec798.css",
+    "static/js/main.3848fd52.js"
+  ]
+}
